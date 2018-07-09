@@ -122,7 +122,7 @@ h6 {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #99CC99;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -205,7 +205,7 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: #99CC99;
   height: 7rem;
   width: 7rem;
   display: block;
